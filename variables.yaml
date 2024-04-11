@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.nihatech.online # submit your host
+REDIS_HOST: redis.nihatech.online
+MYSQL_HOST: mysql.nihatech.online
+RABBITMQ_HOST: rabbitmq.nihatech.online
+CATALOGUE_HOST: catalogue.nihatech.online
+USER_HOST: user.nihatech.online
+CART_HOST: cart.nihatech.online
+SHIPPING_HOST: shipping.nihatech.online
+PAYMENT_HOST: payment.nihatech.online
+DISPATCH_HOST: dispatch.nihatech.online
